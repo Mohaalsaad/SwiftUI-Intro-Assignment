@@ -31,7 +31,6 @@ struct ContentView: View {
                                     .foregroundColor(.gray)
                                     .offset(x:15 , y: -20)
                             }
-                            
                         }
                         .offset(y:30) // for shzam
                     } // galley
@@ -49,7 +48,6 @@ struct ContentView: View {
                                     .foregroundColor(.gray)
                                     .offset(x:15)
                             }
-                            
                         }
                     } // siri
                     Section {
@@ -66,7 +64,6 @@ struct ContentView: View {
                                     .foregroundColor(.gray)
                                     .offset(x:15)
                             }
-                            
                         }
                     } // shazam
                     Section {
@@ -103,7 +100,6 @@ struct ContentView: View {
                                     .foregroundColor(.gray)
                                     .offset(x:15 , y: -20)
                             }
-                            
                         }
                         .offset(y:30)
                     } // find my
@@ -124,7 +120,6 @@ struct ContentView: View {
                             
                         } // for shzam
                     } // wallet
-                    
                 }
                 .background {
                     Image("ventura")
